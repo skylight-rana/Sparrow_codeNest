@@ -52,3 +52,8 @@ Follow these steps to set up the application on your local system:
   - PyTorch
   - YOLOv5
   - OpenCV
+
+**Contact**
+For any questions or suggestions, feel free to reach out:
+
+    Email: ranapratapsingh33169@gmail.com
