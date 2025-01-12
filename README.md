@@ -46,6 +46,8 @@ Follow these steps to set up the application on your local system:
 **Download Results**
   Detected files (images/videos) will appear in the output section. You can view or download them directly.
 
+**Model**: best.pt
+
 **Dependencies**
   - Python 3.8+
   - Streamlit
