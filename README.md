@@ -23,12 +23,14 @@ Follow these steps to set up the application on your local system:
    cd Sparrow_codeNest
 
 2. **Install Dependencies**: Make sure you have Python 3.8+ installed. Install the required packages:
-    pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
    
-3. **Download YOLOv5 Model**: Place your YOLOv5 model weights (best.pt) in the root directory or update the path in app.py if located elsewhere.
+4. **Download YOLOv5 Model**: Place your YOLOv5 model weights (best.pt) in the root directory or update the path in app.py if located elsewhere.
 
-4. **Run the Application**: Launch the Streamlit app:
-    streamlit run app.py
+5. **Run the Application**: Launch the Streamlit app:
+   ```bash
+   streamlit run app.py
 
 **Usage**
 **Upload an Image or Video**
